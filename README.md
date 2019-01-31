@@ -1,4 +1,4 @@
-# TipCalculator
+# Web Application to Calculate Tip
 
 ### Purpose 
 To provide users with a convenient application to calculate tip.
